@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { useState, useEffect } from "react";
-import { Grid, Box, Typography, TextField, Button, Checkbox, FormControlLabel, Modal, useIsFocusVisible } from "@mui/material";
+import { Grid, Box, Typography, TextField, Button, Checkbox, FormControlLabel, Modal } from "@mui/material";
 import './FormSU.css';
 import terminos from './images/Terminos_condiciones_dveritas.pdf';
 import { useNavigate } from 'react-router-dom';
